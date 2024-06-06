@@ -3,13 +3,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>praktek_mkpl</groupId>
   <artifactId>demo</artifactId>
-  <version>0.1.0</version> 
+  <version>0.1.1</version> 
 
 <dependencies>
   <dependency>
     <groupId>junit</groupId>
     <artifactId>junit</artifactId>
-    <version>4.11</version> <!-- Or whatever JUnit you're using. -->
+    <version>4.11</version> <!-- Or whatever JUnit you're using.. -->
 	</dependency>
 </dependencies>
 
