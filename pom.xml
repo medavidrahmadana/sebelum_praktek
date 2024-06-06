@@ -17,13 +17,15 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/medavidrahmadana/praktek_mkpl</url>
+      <url>https://maven.pkg.github.com/medavidrahmadana/sebelum_praktek</url>
     </repository>
   </distributionManagement>
   
   <properties>
      <maven.compiler.source>1.8</maven.compiler.source>
      <maven.compiler.target>1.8</maven.compiler.target>
+     <sonar.organization>akunmkepl</sonar.organization>
+     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
  </properties>
   
 </project>
